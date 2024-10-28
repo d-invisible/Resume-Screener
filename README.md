@@ -9,7 +9,7 @@ scikit-learn
 PyMuPDF
 
 ## Live Preview 
-<a href="/">Link</a>
+<a href="/"><b>Link<b></a>
 
 <br><br><br>
 ## Screenshots
