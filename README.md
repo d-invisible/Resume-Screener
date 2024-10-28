@@ -12,5 +12,6 @@ PyMuPDF
 <a href="/"><b>Link<b></a>
 
 <br>
+
 ## Screenshots
 
