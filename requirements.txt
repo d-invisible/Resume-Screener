@@ -1,0 +1,8 @@
+streamlit
+pandas
+docx2txt
+scikit-learn
+PyMuPDF
+wordcloud
+transformers
+torch
